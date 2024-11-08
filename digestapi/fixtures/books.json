@@ -1,0 +1,222 @@
+[
+    {
+      "model": "digestapi.book",
+      "pk": 1,
+      "fields": {
+        "user": 1,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "isbn_number": "9780743273565",
+        "cover_image": "https://example.com/gatsby-cover.jpg"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 2,
+      "fields": {
+        "user": 1,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "isbn_number": "9780446310789",
+        "cover_image": "https://example.com/mockingbird-cover.jpg"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 3,
+      "fields": {
+        "user": 2,
+        "title": "1984",
+        "author": "George Orwell",
+        "isbn_number": "9780451524935",
+        "cover_image": "https://example.com/1984-cover.jpg"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 4,
+      "fields": {
+        "user": 2,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "isbn_number": "9780141439518",
+        "cover_image": "https://example.com/pride-cover.jpg"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 5,
+      "fields": {
+        "user": 1,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "isbn_number": "9780316769488",
+        "cover_image": "https://example.com/catcher-cover.jpg"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 6,
+      "fields": {
+        "user": 3,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "isbn_number": "9780547928227",
+        "cover_image": "https://example.com/hobbit-cover.jpg"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 7,
+      "fields": {
+        "user": 2,
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "isbn_number": "9780060850524",
+        "cover_image": null
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 8,
+      "fields": {
+        "user": 1,
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "isbn_number": "9780618640157",
+        "cover_image": "https://example.com/lotr-cover.jpg"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 9,
+      "fields": {
+        "user": 3,
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "isbn_number": "9781451673319",
+        "cover_image": null
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 10,
+      "fields": {
+        "user": 2,
+        "title": "Jane Eyre",
+        "author": "Charlotte Bronte",
+        "isbn_number": "9780141441146",
+        "cover_image": "https://example.com/jane-eyre-cover.jpg"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 11,
+      "fields": {
+        "user": 1,
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "isbn_number": "9780062315007",
+        "cover_image": "https://example.com/alchemist-cover.jpg"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 12,
+      "fields": {
+        "user": 3,
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "isbn_number": "9780441172719",
+        "cover_image": null
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 13,
+      "fields": {
+        "user": 2,
+        "title": "The Handmaid's Tale",
+        "author": "Margaret Atwood",
+        "isbn_number": "9780385490818",
+        "cover_image": "https://example.com/handmaid-cover.jpg"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 14,
+      "fields": {
+        "user": 1,
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel García Márquez",
+        "isbn_number": "9780060883287",
+        "cover_image": "https://example.com/solitude-cover.jpg"
+      }
+    },
+    {
+        "model": "digestapi.book",
+        "pk": 15,
+        "fields": {
+          "user": 3,
+          "title": "The Picture of Dorian Gray",
+          "author": "Oscar Wilde",
+          "isbn_number": null,
+          "cover_image": "https://example.com/dorian-cover.jpg"
+        }
+      },
+      {
+        "model": "digestapi.book",
+        "pk": 16,
+        "fields": {
+          "user": 2,
+          "title": "The Road",
+          "author": "Cormac McCarthy",
+          "isbn_number": "9780307387899",
+          "cover_image": null
+        }
+      },
+      {
+        "model": "digestapi.book",
+        "pk": 17,
+        "fields": {
+          "user": 1,
+          "title": "Slaughterhouse-Five",
+          "author": "Kurt Vonnegut",
+          "isbn_number": "9780385333849",
+          "cover_image": "https://example.com/slaughterhouse-cover.jpg"
+        }
+      },
+      {
+        "model": "digestapi.book",
+        "pk": 18,
+        "fields": {
+          "user": 3,
+          "title": "The Bell Jar",
+          "author": "Sylvia Plath",
+          "isbn_number": null,
+          "cover_image": "https://example.com/bell-jar-cover.jpg"
+        }
+      },
+      {
+        "model": "digestapi.book",
+        "pk": 19,
+        "fields": {
+          "user": 2,
+          "title": "Neuromancer",
+          "author": "William Gibson",
+          "isbn_number": "9780441569595",
+          "cover_image": "https://example.com/neuromancer-cover.jpg"
+        }
+      },
+      {
+        "model": "digestapi.book",
+        "pk": 20,
+        "fields": {
+          "user": 1,
+          "title": "The Stranger",
+          "author": "Albert Camus",
+          "isbn_number": "9780679720201",
+          "cover_image": null
+        }
+      }
+    ]
